@@ -134,7 +134,7 @@ def get_top_5_players():
 #
 #     return top_5_players
 #
-# clear_leaderboard()  # Διαγραφή όλων των εγγραφών
+clear_leaderboard()  # Διαγραφή όλων των εγγραφών
 
 
 #Παράδειγμα χρήσης της μεθόδου
